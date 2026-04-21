@@ -1,9 +1,13 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>ARTE MULTIMEDIALES I</title>
+<html lang= "es"> 
+<head> 
+<meta charset="utf-8">
+<title>PRACTICAS</title>
 </head>
 <body>
-
+<h1>TRABAJOS</h1>
+<ul>
+<li><a href="TP1 PIROTTA/">Cartografías e Hipótesis sobre las Artes Multimediales</a></li>
+</ul>
 </body>
 </html>
