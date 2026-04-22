@@ -138,33 +138,26 @@ body::after {
   background: radial-gradient(circle at center, transparent 60%, rgba(0,0,0,0.6));
   pointer-events: none;
 }
-/* 👥 INTEGRANTES (cierre integrado al sistema visual) */
+/* 👥 INTEGRANTES (pie de página centrado) */
 .grupo-integrantes {
-  max-width: 900px;
-  margin: 40px auto 80px auto;
-  padding: 25px 40px;
+  width: 100%;
+  margin-top: 60px;
+  padding: 20px 10px;
 
   text-align: center;
 
-  background: rgba(0,0,0,0.4);
-  border-radius: 12px;
+  background: rgba(0,0,0,0.5);
+  border-top: 1px solid rgba(255,255,255,0.2);
 
-  box-shadow: 0 0 30px rgba(0,0,0,0.7);
-
-  font-size: 0.85em;
+  font-size: 0.8em;
   color: #aaa;
 
-  opacity: 0.85;
-  transition: 0.4s;
-}
-
-.grupo-integrantes:hover {
-  opacity: 1;
+  opacity: 0.8;
 }
 
 .grupo-integrantes h3 {
-  margin-bottom: 12px;
-  font-size: 0.9em;
+  margin-bottom: 8px;
+  font-size: 0.85em;
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #ddd;
@@ -172,6 +165,6 @@ body::after {
 
 .grupo-integrantes p {
   margin: 0;
-  line-height: 1.8;
+  line-height: 1.6;
   text-align: center;
 }
