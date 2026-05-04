@@ -291,3 +291,11 @@ body.cartografia .sidebar {
   overflow-y: auto;
   height: 100%;
 }
+footer {
+  width: 100%;
+  text-align: center;
+  background-color: #222;
+  color: white;
+  padding: 20px;
+  margin-top: 40px;
+}
